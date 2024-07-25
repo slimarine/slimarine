@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slimarine
-- 👀 I’m the website of the SLIM Lab at Dalian Maritime University, with a special focus on the Scientifics behind Lightweight Innovations for Marine applications.
+- 👀 I’m the website of the SLIM Lab at Dalian Maritime University, with a special focus on Scientifics behind Lightweight Innovations for Marine applications (SLIM).
 - more updates coming soon
 
 <!---
