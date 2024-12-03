@@ -1,4 +1,4 @@
-- 👋 I’m the official website of the Science behind Lightweight Innovations for Maritime applications LAB (the SLIM Lab) @ Dalian Maritime University, Dalian, China [38.870107797016026, 121.53408735269832].
+- 👋 I’m the official website of the Science behind Lightweight Innovations for Maritime applications LAB (the SLIM Lab) @ Dalian Maritime University, Dalian, China [39°, 121°].
 - 👀 The principal investigator of the SLIM lab is Dr. Zhaogui Wang (zw-am.github.io)
 - Currently, the research interests lie in the fundamental science of fibrous composites additive manufacturing (producing complex geometry with high weight-to-strength ratio, for, e.g., on-site ship maintenance spare parts supply🌊), marine-based biomimetic design🐟 (creating natural metamaterials like cuttlebones), high-efficiency large area additive manufacturing (for rapid fabrication of marine structures).
 - ⚓️ More updates coming soon.
